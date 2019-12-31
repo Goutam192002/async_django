@@ -1,0 +1,6 @@
+# Ignore venv
+/venv
+
+# Ignore database
+/db.sqlite3
+/celerybeat-schedule.db
